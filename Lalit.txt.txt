@@ -1,0 +1,53 @@
+DOM and selectors are used for interaction between UI and actaul logic.
+
+document.getElementById
+
+selector : select the object from the dom tree.
+
+types:
+
+# indicates id selector
+
+. class name selector
+
+"tag name"  tag name selector e.g. "div" its div tag selector.
+
+each compenent is angular has 4 files
+ts
+css
+spec
+html
+
+component -> then --> html and css load
+
+1 compent==== 1 tag
+
+component has following properties
+selector 
+templateUrl/template
+StyleUrls/Styles
+and might be more..but these are the mandate.
+
+
+angular binding
+
+[()] 2 ways -- source and dest : view and ts/model...like realtime.....
+[] 1 way binding -- component --> view -- also called attribute binding
+() 1 way -- view --> component -- e.g. (Click) from view to component
+{{}} 1 way -- component --> view ---compenent variable display in view ..readonly purpose..
+
+
+template driven form: most of part has been done in template/view itself
+reACTIVE form : two way binding form : we are using component and angular predefine attribute.write less code in view
+
+
+
+
+Node.js is used to build server side code(like java... but in javascipt ) ..this is special js apart form all rest of js like client side coding
+
+
+
+
+
+
+
