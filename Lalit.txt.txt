@@ -48,6 +48,24 @@ Node.js is used to build server side code(like java... but in javascipt ) ..this
 
 
 
+Lifecycle methods : only usuful in performance case....
+
+constructor :
 
 
 
+ngOnInit : data related ops goes here.... 
+
+nginit
+
+nginit
+nginit
+
+
+
+Jasmin:
+
+describe -- test suite
+it -- test case
+beforeEach - pre test
+afteEach - post test
